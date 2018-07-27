@@ -2,7 +2,7 @@
 
 [![](https://images.microbadger.com/badges/version/toshovski/aws-sam.svg)](https://microbadger.com/images/toshovski/aws-sam "Get your own version badge on microbadger.com")
 
-Python 3.6 Docker image
+AWS SAM Docker image
 =======================
 
 This image is based on Alpine Linux image, which is only a 5MB image, and contains
